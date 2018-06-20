@@ -4,7 +4,7 @@
      
     {
         "title" : "How to delete Spot Instances using a Lambda function - 2018-06-20",
-        "url" : "/homepage/aws/2018/06/20/lambda.html"
+        "url" : "/aws/2018/06/20/lambda.html"
     }
     
     ,
@@ -12,7 +12,7 @@
     
     {
         "title" : "How to preconfigure user on Jenkins - 2018-05-20",
-        "url" : "/homepage/jenkins/2018/05/20/jenkins2.html"
+        "url" : "/jenkins/2018/05/20/jenkins2.html"
     }
     
     ,
@@ -20,23 +20,7 @@
     
     {
         "title" : "How to preinstall plugins on Jenkins - 2018-05-20",
-        "url" : "/homepage/jenkins/2018/05/20/jenkins1.html"
-    }
-    
-    ,
-    
-    
-    {
-        "title" : "code snippet test - 2017-12-21",
-        "url" : "/homepage/html/2017/12/21/test-code-snippets.html"
-    }
-    
-    ,
-    
-    
-    {
-        "title" : "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc - 2017-01-31",
-        "url" : "/homepage/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html"
+        "url" : "/jenkins/2018/05/20/jenkins1.html"
     }
     
     
