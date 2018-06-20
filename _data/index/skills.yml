@@ -1,0 +1,27 @@
+# skills section data
+
+- label: Cloud
+  id : cs1
+  aspects: AWS, Azure, Gcloud, Terraform, Cloudformation
+  percentage: 75, 70, 60, 80, 50
+
+- label: Operative Systems
+  id: cs2
+  aspects: Linux, Solaris, Windows
+  percentage: 85, 75, 80
+
+- label: Programming
+  id: cs3
+  aspects: Bash, PHP, Java, Ruby on Rails, Python
+  percentage: 75, 80, 70, 80, 60,
+
+- label: DevOps Tools
+  id: cs4
+  aspects: Ansible, Chef, Docker, Vagrant, Jenkins, Git
+  percentage: 75, 70, 80, 80, 70, 90
+
+- label: DB and WebServers
+  id: cs5
+  aspects: Weblogic, Apache, Tomcat, Nginx, MySql, PostgreSQL, SQL Server, Oracle SQL, Oracle SOA, Oracle Service Bus
+  percentage: 90, 85, 85, 80, 90, 90, 75, 85, 75, 75
+

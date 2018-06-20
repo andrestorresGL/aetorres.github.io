@@ -1,0 +1,27 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Chef-Terraform Example
+  i18n: jalpc
+  gh_user: aetorres
+  repo: chef_terra
+  img: /static/assets/img/landing/github-mark.jpg
+  desc: This project is an example of AWS Jenkins configuration with Terraform and Chef
+
+- name: Docker Rails-Nginx Image
+  i18n: cpython
+  gh_user: aetorres
+  repo: Docker-Rails-Nginx-Postgres
+  img: /static/assets/img/landing/github-mark.jpg
+  desc: This project is an Rails/Nginx image that works with a PostgresDB
+
+- name: Gcloud-K8-GoCD
+  i18n: google
+  gh_user: aetorres
+  repo: gc_k8s_gocd
+  img: /static/assets/img/landing/github-mark.jpg
+  desc: This project is an Rails/Nginx image that works with a PostgresDB
+
+  #url: https://google.com
+  #img: /static/assets/img/landing/google.png
+  #desc: This is another project.

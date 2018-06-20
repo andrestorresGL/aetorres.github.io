@@ -1,0 +1,125 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Flugel IT
+    i18n: flugel_it
+  desc:
+    detail: Act as infrastructure developer for our clients, working with a big suite of tools such as, Kubernetes, Chef, Terraform, Cloudformation, Ansible, Jenkins, Docker, Vagrant, AWS, Google Cloud, Azure and other automation software.
+    i18n: company_a_desc
+  date:
+    detail: March 2018
+    i18n: company_a_date
+  job:
+    detail: DevOps Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Intertec International
+    i18n: company_b
+  desc:
+    detail: Acts in a lead technical role providing technical guidance and
+            consultation with developers, clients and IT management for web
+            systems environments.
+            Provides the strategy and design for projects associated with web and
+            e-commerce application installations, upgrades and deployments.
+            Utilizes advanced technologies and methods to integrate web systems
+            with existing systems, enabling the creation of new or expanded web
+            enterprises.
+            Develops new documentation and departmental technical procedures.
+            Directs the gathering of performance statistics to assist in determining
+            hardware and communication tools needed to support projected
+            transaction volumes, response time and system availability targets.
+            As an escalation point, provides guidance and direction to less
+            experienced staff in resolution of highly complex technical problems
+            involving the maintenance and/or creation of web sites and e-commerce
+            applications and their integration into the existing systems environment.
+            Leads projects, allocates and manages resources and manages the work
+            of less experienced staff.
+            Assures quality, security and compliance requirements are met for
+            supported area and oversees creation of or updates to and testing of the
+            business continuation plan
+            The tools used on my daily work were SO as Unix/Linux, Solaris, Web
+            App Servers as Apache Tomcat, WebLogic, also HP OVO, F5s, IBM MQ,
+            IBM WebSphere
+    i18n: company_b_desc
+  date:
+    detail: Dec. 2016 - Sep. 2017
+    i18n: company_b_date
+  job:
+    detail: Web Systems Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: GlobalR C.A.
+    i18n: flugel_it
+  desc:
+    detail: 'AWS SSr. Administrator, CuriaSport''s deployment manager using
+            capistrano for RoR, managing Nginx, Tomcat7 and PostgreSQL Servers,
+            also the responsable of Curia''s Infrastructure with includes security
+            policies, backup policies and access policies.
+
+            Middleware Engineer, responsible of administration, installation and
+            troubleshooting on Weblogic, Oracle SOA Suite and others middleware
+            applications. GlobalR Leader with Oracle responsable of following,
+            attention and control over the GlobalR employees working with Oracle.
+
+            Data Base (ORACLE, MSSQL) and Application (TUXEDO, Weblogic)
+            Administrator on Telefonica Venezuela. Weblogic Administrator in
+            Windows Azure cloud, management and configuration of Nagios and
+            Puppet Servers. Support and continuity to the Pre-payment Movistar
+            platform using ProC and OracleSQL.'
+    i18n: company_a_desc
+  date:
+    detail: Feb. 2013 - Dec. 2016
+    i18n: company_a_date
+  job:
+    detail: Oracle Support Engineer / Leader Middleware GlobalR
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: The Factory HKA.
+    i18n: flugel_it
+  desc:
+    detail: Leader of web development unit using Yii, P4A, MySQL and PostgreSQL.
+            I also was the network administrator, applications, enterprise servers
+            and technical support to end users
+    i18n: company_a_desc
+  date:
+    detail: Feb. 2010 - Feb. 2013
+    i18n: company_a_date
+  job:
+    detail: Web Developer Unit Lead
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Consultores Micorp C.A.
+    i18n: flugel_it
+  desc:
+    detail: Analyst and web application developer, using PHP and PostgreSQL
+    i18n: company_a_desc
+  date:
+    detail: March 2009 - Feb. 2010
+    i18n: company_a_date
+  job:
+    detail: Web Developer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: NBreve C.A.
+    i18n: flugel_it
+  desc:
+    detail: Analyst and web application developer, using Java hibernate, Jboss and
+             PostgreSQL.
+    i18n: company_a_desc
+  date:
+    detail: Oct. 2007 - March 2008
+    i18n: company_a_date
+  job:
+    detail: Web Developer
+    i18n: company_a_job
+  icon: fa-plus-square
