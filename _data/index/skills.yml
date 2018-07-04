@@ -17,8 +17,8 @@
 
 - label: DevOps Tools
   id: cs4
-  aspects: Ansible, Chef, Docker, Vagrant, Jenkins, Git
-  percentage: 75, 70, 80, 80, 70, 90
+  aspects: Ansible, Chef, Docker, Vagrant, Jenkins, Travis, Git
+  percentage: 75, 70, 80, 80, 70, 70, 90
 
 - label: DB and WebServers
   id: cs5
