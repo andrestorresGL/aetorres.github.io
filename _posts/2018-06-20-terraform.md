@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shared Terraform State file"
-date:   2018-06-20
+date:   2018-11-20
 desc: "How to manage AWS state file in a shared environment"
 keywords: "Terraform, AWS, S3, shared, remote, backend "
 categories: [Aws]
