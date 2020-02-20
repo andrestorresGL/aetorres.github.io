@@ -1,19 +1,33 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Gorilla Logic
+    i18n: gorilla_ca
+  desc:
+    detail: Act as infrastructure developer for our clients, working with a big suite of tools such as, Kubernetes, Chef, Terraform, Cloudformation, Ansible, Jenkins, Docker, Vagrant, AWS, Google Cloud, Azure and other automation software.
+    i18n: company_a_desc
+  date:
+    detail: February 2020
+    i18n: company_a_date
+  job:
+    detail: DevOps Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: Avantica C.A.
     i18n: avantica_ca
   desc:
     detail: Act as infrastructure developer for our clients, working with a big suite of tools such as, Kubernetes, Chef, Terraform, Cloudformation, Ansible, Jenkins, Docker, Vagrant, AWS, Google Cloud, Azure and other automation software.
     i18n: company_a_desc
   date:
-    detail: August 2018
+    detail: August 2018 - February 2020
     i18n: company_a_date
   job:
     detail: DevOps Engineer
     i18n: company_a_job
   icon: fa-plus-square
-  
+
 - name:
     detail: Flugel IT
     i18n: flugel_it
