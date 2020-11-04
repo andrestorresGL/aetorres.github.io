@@ -22,6 +22,6 @@
 
 - label: DB and WebServers
   id: cs5
-  aspects: Weblogic, Apache, Tomcat, Nginx, MySql, PostgreSQL, SQL Server, Oracle SQL, Oracle SOA, Oracle Service Bus
-  percentage: 90, 85, 85, 80, 90, 90, 75, 85, 75, 75
+  aspects: Weblogic, Apache, Tomcat, Nginx, Ambassador, MySql, PostgreSQL, SQL Server, Oracle SQL, Oracle SOA, Oracle Service Bus
+  percentage: 90, 85, 85, 80, 70, 90, 90, 75, 85, 75, 75
 
