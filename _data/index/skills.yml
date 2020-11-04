@@ -1,9 +1,9 @@
 # skills section data
 
-- label: Cloud
+- label: Cloud Tech
   id : cs1
-  aspects: AWS, Azure, Gcloud, Terraform, Cloudformation
-  percentage: 75, 70, 60, 80, 50
+  aspects: AWS, Azure, Gcloud, Terraform, Cloudformation, Akamai
+  percentage: 85, 60, 80, 80, 50, 40
 
 - label: Operative Systems
   id: cs2
@@ -13,12 +13,12 @@
 - label: Programming
   id: cs3
   aspects: Bash, PHP, Java, Ruby on Rails, Python
-  percentage: 75, 80, 70, 80, 60,
+  percentage: 75, 80, 70, 80, 70,
 
 - label: DevOps Tools
   id: cs4
-  aspects: Ansible, Chef, Docker, Vagrant, Jenkins, Travis, Git , Jmeter
-  percentage: 75, 70, 80, 80, 70, 70, 90, 60
+  aspects: Kuberenetes, Ansible, Chef, Docker, Vagrant, Jenkins, Travis, Git, CircleCI, GitLab
+  percentage: 80, 75, 70, 80, 80, 70, 70, 90, 75, 65
 
 - label: DB and WebServers
   id: cs5
